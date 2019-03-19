@@ -8,7 +8,7 @@ Nome: < preencha seu nome aqui >
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               |  331 Lenovo C1040     |  Dell inspiron 14-2620
-| Imagem (foto, diagrama, screenshot, etc.)                 | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> | Substitua-me. <img src="https://www.tudoemtecnologia.com/wp-content/uploads/2013/12/Dell-Inspiron-14-2620.jpg" width="48">|
+| Imagem (foto, diagrama, screenshot, etc.)                 |  <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> |  <img src="https://www.tudoemtecnologia.com/wp-content/uploads/2013/12/Dell-Inspiron-14-2620.jpg" width="48">|
 | Classificação de Flynn                                    |                       |                 |
 | Memória: compartilhada, distribuída ou ambas?             |                       |                 |
 | Número total de núcleos de processamento                  |        38.400         |        2        |
