@@ -15,7 +15,7 @@ Nome: < preencha seu nome aqui >
 | Fabricante e modelo do(s) processador(es)                 |Intel Xeon E5-2673v4 20c|Intel i5 3337u  |
 | Frequência do(s) processador(es)                          |  2.3GHz               |1.80GHz up to 2.7GHz|
 | Memória total                                             |        491.520Gb      |       6gb          |
-| Tipo(s) de interconexão entre os núcleos/processadores    |      40G Ethernet     |      -           |
+| Tipo(s) de interconexão entre os núcleos/processadores    |      40G Ethernet     |      Socket H2           |
 | Desempenho Linpack                                        |        1,123.15 TFlops/s               |  33.1769 GFlops/s      |
 
 ### Referências
