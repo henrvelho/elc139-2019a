@@ -22,7 +22,7 @@ Nome: < preencha seu nome aqui >
 - Intel. Intel® Core™ i5-3337U Processor .https://ark.intel.com/content/www/us/en/ark/products/72055/intel-core-i5-3337u-processor-3m-cache-up-to-2-70-ghz.html.
 - Top500 The List. BC1 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet. https://www.top500.org/system/179315.
 - Intel Datasheet.Desktop 3rd Gen Intel® Core™ Processor Family: Datasheet, Vol. 1. https://www.intel.com/content/www/us/en/processors/core/3rd-gen-core-desktop-vol-1-datasheet.html.
-
+- Intel. Intel® Xeon® Processor E5 v4 Family Technical Datasheet. https://www.intel.com/content/www/us/en/processors/xeon/xeon-e5-v4-datasheet-vol-1.html
 
 - Linkpack utilizado: Linkpack Xtreme by Prime95
 (Linpack solves a dense (real*8) system of linear equations (Ax=b), measures
