@@ -9,8 +9,8 @@ Nome: < preencha seu nome aqui >
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               |  331 Lenovo C1040     |  Dell inspiron 14-2620
 | Imagem (foto, diagrama, screenshot, etc.)                 |  <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> |  <img src="https://www.tudoemtecnologia.com/wp-content/uploads/2013/12/Dell-Inspiron-14-2620.jpg" width="48">|
-| Classificação de Flynn                                    |                       |                 |
-| Memória: compartilhada, distribuída ou ambas?             |                       |                 |
+| Classificação de Flynn                                    |                       |                 | SIMD
+| Memória: compartilhada, distribuída ou ambas?             |          Distribuida             |     Compartilhada            |
 | Número total de núcleos de processamento                  |        38.400         |        2        |
 | Fabricante e modelo do(s) processador(es)                 |Intel Xeon E5-2673v4 20c|Intel i5 3337u  |
 | Frequência do(s) processador(es)                          |  2.3GHz               |1.80GHz up to 2.7GHz|
