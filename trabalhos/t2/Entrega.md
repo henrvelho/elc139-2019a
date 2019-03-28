@@ -55,7 +55,7 @@ AGLOMERAÇÃO:
 4- Elabore um gráfico/tabela de aceleração a partir dos dados obtidos no exercício anterior.
 	Para realização dessa tabela foi utlizado 2 execuções no mesmo parametro e feito a média.
 
-	Para MIL(1000) repetições:<br>
+Para MIL(1000) repetições:<br>
 
 | Tam. Vetor | Núm. Threads | Tempo Médio(usec) |
 |:---------------:|:------------:|:-----------------:|
