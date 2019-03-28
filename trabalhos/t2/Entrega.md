@@ -90,4 +90,4 @@ AGLOMERAÇÃO:
 
 5- Explique as diferenças entre pthreads_dotprod.c e pthreads_dotprod2.c. Com as linhas removidas, o programa está correto?
 
-	Não, pois sem um mutex vai ocorrer de várias threads acessando a mesma estrutura concorrente e assim podendo ocasionar problemas de consistencia nos dados.
+Não, pois sem um mutex vai ocorrer de várias threads acessando a mesma estrutura concorrente e assim podendo ocasionar problemas de consistencia nos dados.
