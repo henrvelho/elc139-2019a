@@ -1,0 +1,4 @@
+Nome: Henrique Velho
+Plataforma utilizada: Windows 10 bash (ubuntu)
+Processador core i5 3337u 2 cores
+Memoria 6gb
