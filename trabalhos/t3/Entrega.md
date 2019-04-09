@@ -14,14 +14,14 @@ Neste caso como o proprio nome diz, o numero de iteracao será o mesmo, gerando 
 
 2- [Schedule Dynamic] Com tratamento da exclusão mutua (https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t3/ThreadDynamic.cpp)
 
-3- Schedule Guided Com tratamento da exclusão mutua ()
+3- [Schedule Guided] Com tratamento da exclusão mutua (https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t3/ThreadGuided.cpp)
 
 Neste caso o numero de iteraçoes irá variar, comecando por um numero grande e reduzindo ao final, como podemos ver na saida do programa(C>B>A)
 
-4- Schedule Runtime ()
+4- [Schedule Runtime] (https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t3/ThreadRuntime.cpp)
 
 A decisao eh feita na execução do programa
 
-5- Schedule Auto e sem tratamento da exclusão mutua ()
+5- [Schedule Auto] e sem tratamento da exclusão mutua (https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t3/ThreadAuto.cpp)
 
 Neste caso não foi feito a omp critical o qual libera o acesso a qualquer thread e a qualquer momento, e a saida é um resultado errado;
