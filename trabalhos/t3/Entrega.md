@@ -8,11 +8,11 @@ T3 Openmp
 
 O presente trabalho foi criado, compilado e executado em um notebook Dell Inspiron Intel core I53337u
 
-- [Schedule Static] (https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t3/ThreadStatic.cpp)
+1- [Schedule Static] (https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t3/ThreadStatic.cpp)
 
 Neste caso como o proprio nome diz, o numero de iteracao será o mesmo, gerando uma saida uniforme;
 
-2- Schedule Dynamic Com tratamento da exclusão mutua ()
+2- [Schedule Dynamic] Com tratamento da exclusão mutua (https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t3/ThreadDynamic.cpp)
 
 3- Schedule Guided Com tratamento da exclusão mutua ()
 
