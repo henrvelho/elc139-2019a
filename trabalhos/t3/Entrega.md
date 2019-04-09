@@ -1,6 +1,9 @@
 Programação Paralela
+
 Aluno:Henrique Velho
+
 Professora: Andrea Charão;
+
 T3 Openmp
 
 O presente trabalho foi criado, compilado e executado em um notebook Dell Inspiron Intel core I53337u
