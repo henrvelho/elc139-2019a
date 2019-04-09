@@ -8,7 +8,7 @@ T3 Openmp
 
 O presente trabalho foi criado, compilado e executado em um notebook Dell Inspiron Intel core I53337u
 
-1- Schedule Static ()
+1- Schedule Static (https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t3/ThreadStatic.cpp)
 
 Neste caso como o proprio nome diz, o numero de iteracao será o mesmo, gerando uma saida uniforme;
 
