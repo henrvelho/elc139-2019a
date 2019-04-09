@@ -25,3 +25,9 @@ A decisao eh feita na execução do programa
 5- [Schedule Auto] e sem tratamento da exclusão mutua (https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t3/ThreadAuto.cpp)
 
 Neste caso não foi feito a omp critical o qual libera o acesso a qualquer thread e a qualquer momento, e a saida é um resultado errado;
+
+Referencias:
+
+- Executando OpenMp (https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t3/ThreadAuto.cpp)
+- Introdução OpenMP (https://www.dcc.fc.up.pt/~fds/aulas/PPD/0708/intro_openmp-1x2.pdf)
+- Diretivas OpenMp (https://docs.microsoft.com/pt-br/cpp/parallel/openmp/reference/openmp-directives?view=vs-2019)
