@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
     const double xMin = xMid - delta;   
     const double yMin = yMid - delta;
     const double dw = 2.0 * delta / width;
-    //#pragma omp parallel private(col, frame, row) 
+    #pragma omp parallel private(col, frame, row) 
     #pragma omp parallel for schedule(static,chuck_size) 
     
     for (row = 0; row < width; row++) {
