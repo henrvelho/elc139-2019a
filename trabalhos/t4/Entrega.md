@@ -2,7 +2,7 @@
 # T4: Geração de Fractais de Mandelbrot em OpenMP
 Programação Paralela
 
-Aluno:Henrique Velho
+Aluno: Henrique Velho
 
 Professora: Andrea Charão;
 
