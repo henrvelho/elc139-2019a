@@ -30,13 +30,14 @@ int main(int argc, char *argv[])
   double delta = Delta;
 
 	int frame,row,col;
+	#pragma omp parallel private(col, frame, row) 
+    #pragma omp parallel for schedule(dynamic) num_threads(4)
   
   for (frame = 0; frame < frames; frame++) {
     const double xMin = xMid - delta;   
     const double yMin = yMid - delta;
     const double dw = 2.0 * delta / width;
-    #pragma omp parallel private(col, frame, row) 
-    #pragma omp parallel for schedule(dynamic) num_threads(4)
+    
     
     for (row = 0; row < width; row++) {
     	
