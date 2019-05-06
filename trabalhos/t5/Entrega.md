@@ -16,11 +16,13 @@ soon
 
 ### Parte 3
 
-<p>Link programa errado: [MPI ERRADO 1](mpi_errado1.c)</p>
-<p>Link programa certo: [MPI CERTO 1](mpi_certo1.c)</p>
-	O problema do programa mpi_errado1.c eh o valor passado na variavel tag, gerando assim valores diferentes em MPI_Send e MPI_Recv e nao feita a comunicação dos processos.
+Link programa errado: [MPI ERRADO 1](mpi_errado1.c)
+
+Link programa certo: [MPI CERTO 1](mpi_certo1.c)
+O problema do programa mpi_errado1.c eh o valor passado na variavel tag, gerando assim valores diferentes em MPI_Send e MPI_Recv e nao feita a comunicação dos processos.
 
 Link programa errado: [MPI ERRADO 2](mpi_errado2.c)
+
 Link programa certo: [MPI CERTO 2](mpi_certo2.c)
-	O programa mpi_errado2.c não está usando a finalização do mpi, feito a inserção do MPI_Finalize() em mpi_certo2.c
+O programa mpi_errado2.c não está usando a finalização do mpi, feito a inserção do MPI_Finalize() em mpi_certo2.c
 
