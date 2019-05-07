@@ -11,7 +11,7 @@
 
 ### Parte 2
 
-soon
+Link programa pipeline: [PIPELINE](pipeline_certo.c)
 
 
 ### Parte 3
