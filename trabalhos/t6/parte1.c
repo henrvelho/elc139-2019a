@@ -77,7 +77,7 @@ int main(int argc, char *argv[])
 
   MPI_Bcast(B, SIZE*SIZE, MPI_INT, 0 ,MPI_COMM_WORLD);
 
-  MPI_Scatter(A[from], (to-from)*SIZE, MPI_INT, A[from], (to-from)*SIZE, MPI_INT, 0, MPI_COMM_WORLD);
+  MPI_Scatter(A, SIZE*SIZE/nproc, MPI_INT, A[from], SIZE*SIZE/nproc, MPI_INT, 0, MPI_COMM_WORLD);
 
 
   printf("computing slice %d (from row %d to %d)\n", myrank, from, to-1);
