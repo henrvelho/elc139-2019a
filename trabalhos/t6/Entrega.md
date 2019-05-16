@@ -18,7 +18,7 @@
 	
 	Segue imagem ilustrativa:
 
-[link Imagem ilustrativa](https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t6/bcast_scatter.png)
+![3](bcast_scatter.png)
 
 
 
