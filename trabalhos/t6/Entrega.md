@@ -7,7 +7,7 @@
 ### Parte 1
 
 	
-	[link parte 1](https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t6/parte1.c)
+[link parte 1](https://github.com/henrvelho/elc139-2019a/blob/master/trabalhos/t6/parte1.c)
 
 	O código original do problema da multiplicação de matrizes, era resolvido com chamadas de MPI_Send e MPI_Recv, realizando uma análise é possivel realizar o uso de MPI_Bcast e MPI_Scatter e no fim a união do resultado MPI_Gatter
 	Alguns aspectos importantes:
