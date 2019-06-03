@@ -9,7 +9,7 @@ Todos os resultados time, foram feitas 10 execuções e calculadas as medias res
 
 ### Parte 1
 
- Código fornecido sr_bcast.c
+ Código fornecido [sr_bcast.c](sr_bcast.c)
  Código implementado MPI_Bcast nativa part1.c
 
  graficos // soon
