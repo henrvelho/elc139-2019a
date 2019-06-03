@@ -34,3 +34,5 @@ Todos os resultados time, foram feitas 10 execuções e calculadas as medias res
 
 ### Parte 2
 
+//soon
+
