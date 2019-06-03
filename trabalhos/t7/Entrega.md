@@ -13,7 +13,7 @@ Todos os resultados time, foram feitas 10 execuções e calculadas as medias res
 
  Código implementado [MPI_Bcast nativa](part1.c)
 
- graficos // soon
+ ![parte1](parte1.png)
 
  **Resultados**
 
