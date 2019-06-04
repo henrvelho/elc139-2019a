@@ -34,5 +34,16 @@ Todos os resultados time, foram feitas 10 execuções e calculadas as medias res
 
 ### Parte 2
 
-//soon
+Executado o [avg.c](avg.c)
+Variando bandwidth(bps) latencia, tamanho vetor e processos;
+
+| bandwidth(bps) | latency       | tam vetor | proc     | time  |
+|----------------|---------------|-----------|----------|-------|
+| 16             | 1000          | 3000      | 1        | 0.164 |
+| 16             | 1000          | 3000      | 2        | 0.187 |
+| 16             | 1000          | 3000      | 4        | 0.194 |
+| 16             | 1000          | 3000      | 8        | 0.226 |
+| 16             | 1000          | 3000      | 16       | 0.415 |
+| 16             | 1000          | 3000      | 32       | 0.720 |
+
 
