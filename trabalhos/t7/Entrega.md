@@ -38,10 +38,10 @@ Executado o [avg.c](avg.c)
 Variando bandwidth(bps) latencia, tamanho vetor e processos;
 
 Grafico 1: 
--Bandwidth 16 bps
--latency 1000
--tamanho vetor 3000
-Variando numero de processos
+-Bandwidth 16 bps;
+-latency 1000;
+-tamanho vetor 3000;
+Variando número de processos
 <img src="./16bw.png" width="400">
 
 
