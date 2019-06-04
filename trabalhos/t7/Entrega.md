@@ -37,6 +37,14 @@ Todos os resultados time, foram feitas 10 execuções e calculadas as medias res
 Executado o [avg.c](avg.c)
 Variando bandwidth(bps) latencia, tamanho vetor e processos;
 
+Grafico 1: 
+-Bandwidth 16 bps
+-latency 1000
+-tamanho vetor 3000
+Variando numero de processos
+<img src="./16bw.png" width="400">
+
+
 | bandwidth(bps) | latency       | tam vetor | proc     | time  |
 |----------------|---------------|-----------|----------|-------|
 | 16             | 1000          | 3000      | 1        | 0.164 |
@@ -45,5 +53,17 @@ Variando bandwidth(bps) latencia, tamanho vetor e processos;
 | 16             | 1000          | 3000      | 8        | 0.226 |
 | 16             | 1000          | 3000      | 16       | 0.415 |
 | 16             | 1000          | 3000      | 32       | 0.720 |
+| 512            | 1000          | 3000      | 1        | 0.149 |
+| 512            | 1000          | 3000      | 2        | 0.172 |
+| 512            | 1000          | 3000      | 4        | 0.189 |
+| 512            | 1000          | 3000      | 8        | 0.218 |
+| 512            | 1000          | 3000      | 16       | 0.295 |
+| 512            | 1000          | 3000      | 32       | 0.440 |
+| 10000          | 4000          | 3000      | 1        | 0.170 |
+| 10000          | 4000          | 3000      | 2        | 0.178 |
+| 10000          | 4000          | 3000      | 4        | 0.190 |
+| 10000          | 4000          | 3000      | 8        | 0.227 |
+| 10000          | 4000          | 3000      | 16       | 0.295 |
+| 10000          | 4000          | 3000      | 32       | 0.442 |
 
 
