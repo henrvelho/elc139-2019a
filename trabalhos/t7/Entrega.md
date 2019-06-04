@@ -58,7 +58,7 @@ Gráfico 3:
 Variando número de processos
 <img src="./10000bw.png" width="500">
 
-
+Abaixo segue em forma de tabela os dados obtidos:
 
 | bandwidth(bps) | latency       | tam vetor | proc     | time  |
 |----------------|---------------|-----------|----------|-------|
