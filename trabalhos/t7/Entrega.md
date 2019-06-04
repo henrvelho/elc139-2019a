@@ -82,3 +82,10 @@ Abaixo segue em forma de tabela os dados obtidos:
 | 10000          | 4000          | 3000      | 32       | 0.442 |
 
 
+### Referências:
+
+- [Tutorial MPI](https://computing.llnl.gov/tutorials/mpi/)
+- [MPI Send and Receive](http://mpitutorial.com/tutorials/mpi-send-and-receive/)
+- [Desempenho de programas MPI](https://docs.google.com/presentation/d/1FyeNpOu0-ISHycqqBKZwiE5Ewyon_YHg1E3x9dnMFH4/edit#slide=id.g35f391192_00)
+
+
