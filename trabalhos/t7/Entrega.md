@@ -1,4 +1,4 @@
-[Programação Paralela](https://github.com/AndreaInfUFSM/elc139-2019a) > Trabalho 5
+[Programação Paralela](https://github.com/AndreaInfUFSM/elc139-2019a) > Trabalho 7
 
 
 ### Professora: Andrea Charao
