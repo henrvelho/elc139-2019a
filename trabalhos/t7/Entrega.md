@@ -42,14 +42,14 @@ Gráfico 1:
 -latency 1000;
 -tamanho vetor 3000;
 Variando número de processos
-<img src="./16bw.png" width="400">
+<img src="./16bw.png" width="500">
 
 Gráfico 2:
 -Bandwith 512 bps;
 -latency 1000;
 -tamanho vetor 3000;
 Variando número de processos
-<img src="./512bw.png" width="400">
+<img src="./512bw.png" width="500">
 
 
 | bandwidth(bps) | latency       | tam vetor | proc     | time  |
