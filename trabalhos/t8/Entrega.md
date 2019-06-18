@@ -42,4 +42,5 @@ Ou seja, uma variação de tempo de 10.92%, sendo que outros como por exemplo o 
 
 ### Parte 2
 
+Soon
 
