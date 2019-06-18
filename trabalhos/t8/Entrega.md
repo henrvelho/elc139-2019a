@@ -56,5 +56,32 @@ Tabela calculo do Speedup:
 
 ### Parte 2
 
-Soon
+Código implementado [wavecuda2.cu](wavecuda2.cu)
+
+Para a otimização do código, foi utilizado a chamada #pragma unroll, que segundo pesquisas, abre um branch com até 100 threads e que permite o compilador ter um melhor gerenciamento das váriaveis,
+que no nosso caso é row e col.
+Segue tabela com os tempos obtidos:
+
+
+| Tamanho	    | Quantidade    | Wavecuda2     | Wavecuda1     |
+|-------------  |------------   |-----------    |-----------    |
+| 1024          | 100           | 0.6138 s      | 0.6245 s      |
+| 1024          | 200           | 0.6376 s      | 0.6709 s      |
+| 2048          | 64            | 2.0458 s      | 2.0070 s      |
+| 2048          | 128           | 2.0441 s      | 2.0891 s      |
+| 512           | 32            | 0.2763 s      | 0.2865 s      |
+| 512           | 64            | 0.2545 s      | 0.2463 s      |
+| 128           | 32            | 0.0191 s      | 0.0197 s      |
+| 128           | 64            | 0.0197 s      | 0.0201 s      |
+| 1024          | 50            | 0.6069 s      | 0.6092 s      |
+| 1024          | 600           | 1.7578 s      | 1.7834 s      |
+
+
+### Bibliografia
+
+- Programming Guide :: CUDA Toolkit Documentation. https://docs.nvidia.com/cuda/cuda-c-programming-guide/
+- Fundamental Optimizations in CUDA. http://developer.download.nvidia.com/GTC/PDF/1083_Wang.pdf
+- Techniques Optimization CUDA. http://www.cs.virginia.edu/~mwb7w/cuda_support/optimization_techniques.html
+- CUDA Best Practices Guide NVIDIA. https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html#optimizing-cuda-applications
+
 
