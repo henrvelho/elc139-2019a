@@ -36,7 +36,7 @@ As duas ultimas execuções, variando a quantidade de frames 50 - 600 é dedicad
 | 1024          | 600           | -17.915ms     |
 
 
-Ou seja, uma variação de tempo de 10.92%, sendo que outros como por exemplo o cudaMallocManaged se manteve tecnicamente constante.
+Ou seja, uma variação de tempo de 1092%, sendo que outros como por exemplo o cudaMallocManaged se manteve tecnicamente constante.
 
 Tabela calculo do Speedup:
 
