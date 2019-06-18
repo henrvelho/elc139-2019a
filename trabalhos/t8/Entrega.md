@@ -9,7 +9,7 @@ Todos os resultados time, foram feitas 10 execuções e calculadas as medias res
 
 ### Parte 1
 
-
+Código implementado [wavecuda1.cu](wavecuda1.cu)
 
 | Tamanho	    | Quantidade    | Wave.cpp      | Wavecuda1     |
 |-------------  |------------   |-----------    |-----------    |
