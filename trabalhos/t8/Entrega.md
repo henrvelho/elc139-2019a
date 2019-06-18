@@ -25,7 +25,7 @@ Código implementado [wavecuda1.cu](wavecuda1.cu)
 | 1024          | 600           | -      s      | 1.7834 s      |
 
 Analisando os tempos com o nvprof, pode-se concluir que o tempo do cudaFree aumenta drasticamente e proporcionalmente de acordo com a variação da quantidade de frames,
-como podemos ver nos prints das execuções em (link)
+como podemos ver nos prints das execuções em [prints](/prints)
 
 As duas ultimas execuções, variando a quantidade de frames 50 - 600 é dedicada para a analise do CudaFree
 
